@@ -5,3 +5,31 @@
   box-sizing: border-box;
 }
 
+header {
+  background-color: #FF9A4B;
+  height: 50px;
+  width: 100%;
+}
+
+main {
+  width: 960px;
+  margin: 50px auto;
+  display: flex;
+}
+
+.step-box {
+  width:300px;
+  height: 150px;
+  padding: 10px;
+  margin-right: 30px;
+  position: relative;
+  background-color: #eee;
+}
+
+
+
+footer {
+  background-color: #AAAAAA;
+  height: 50px;
+  width: 100%;
+}
